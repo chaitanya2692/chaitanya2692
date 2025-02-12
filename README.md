@@ -16,8 +16,9 @@ I am a passionate Data Scientist with extensive experience in data analysis, mac
 ## 🛠️ Technologies & Tools
 - **Languages**: Python, Bash, R, Golang
 - **Data Analysis & Visualization**: Pandas, NumPy, Matplotlib, Seaborn, Plotly
-- **Machine Learning**: Scikit-learn, TensorFlow, Keras, PyTorch, XGBoost
-- **Big Data**: Hadoop, Spark
+- **Machine Learning**: Scikit-learn, TensorFlow, Keras, PyTorch, XGBoost, LightGBM, Catboost, SciPy
+- **ML Platforms**: Dataiku, Azure Machine Learning
+- **Big Data**: Hadoop, Spark, Dask
 - **Databases**: PostgreSQL
 - **Security**: OWASP, Xray, Zap scan, Crowdsec, Nmap, Unicorn, Hadolint, Tenable/Nessus scan, Penetration Testing, SSL/TLS, Cert-Manager, SOPS, AGE algorithm
 - **Web Technologies**: RESTful APIs, Flask, FastAPI, VPN
