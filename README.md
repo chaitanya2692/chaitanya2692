@@ -40,7 +40,7 @@ My homelab projects have provided me with hands-on experience in system administ
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaitanya2692&layout=compact&theme=radical)
 
 ## 📫 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/chaitanya2692)
-- [Twitter](https://twitter.com/chaitanya2692)
+- [LinkedIn](https://www.linkedin.com/in/kgc2692/)
+- [Twitter](https://x.com/KGC2692)
 
 Thank you for visiting my profile! Feel free to reach out if you would like to collaborate on a project or just want to chat.
